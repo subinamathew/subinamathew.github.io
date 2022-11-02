@@ -1,0 +1,8 @@
+image: gcr.io/sh-automated-tests/busybox-4:latest
+
+tasks: []
+
+vscode:
+  extensions:
+    - donjayamanne.githistory
+    - EditorConfig.EditorConfig
