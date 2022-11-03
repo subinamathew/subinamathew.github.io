@@ -29,10 +29,10 @@ url = "/about"
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = https://www.linkedin.com/in/subinamathew
+url = "https://www.linkedin.com/in/subinamathew"
 [[params.ananke_socials]]
 name = "twitter"
-url = https://twitter.com/subinamathew
+url = "https://twitter.com/subinamathew"
 [[params.ananke_socials]]
 name = "github"
-url = https://github.com/subinamathew
+url = "https://github.com/subinamathew"
