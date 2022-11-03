@@ -2,3 +2,23 @@ baseURL = 'blog.subinamathew.de'
 languageCode = 'en-us'
 title = 'My corner of World'
 theme = "ananke"
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
