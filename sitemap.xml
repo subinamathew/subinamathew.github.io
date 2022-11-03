@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>blog.subinamathew.de/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2022-11-02T14:24:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-11-02T14:24:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/</loc>
+    <loc>/</loc>
     <lastmod>2022-11-02T14:24:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
