@@ -1,4 +1,6 @@
 tasks:
-  - init: brew install hugo
-    command: hugo server
+  - name: "hugo"
+    command: |
+      brew install hugo
+      hugo server
 
