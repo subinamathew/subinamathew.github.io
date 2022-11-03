@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SubinAMathew</title>
-    <link>/posts/</link>
+    <link>blog.subinamathew.de/posts/</link>
     <description>Recent content in Posts on SubinAMathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2022 14:24:58 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.subinamathew.de/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>blog.subinamathew.de/posts/my-first-post/</link>
       <pubDate>Wed, 02 Nov 2022 14:24:58 +0000</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>blog.subinamathew.de/posts/my-first-post/</guid>
       <description>This is my first post. Lets see how far this goes.</description>
     </item>
     
