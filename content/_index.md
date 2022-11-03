@@ -1,7 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
-
+title: "World's End"
 cascade:
-  featured_image: 'https://gohugo-ananke-theme-demo.netlify.app/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: 'https://images.pexels.com/photos/113850/pexels-photo-113850.jpeg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Welcome to my blog with some of my work in progress.
