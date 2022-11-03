@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'SubinAMathew'
 theme = "ananke"
 
+date_format = "2. January 2006"
+
+
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
@@ -22,3 +25,13 @@ weight = 3
 [[menu.main]]
 name = "About"
 url = "/about"
+
+
+params:
+  ananke_socials:
+  - name: linkedin
+    label: LinkedIn
+    url: https://www.linkedin.com/in/subinamathew
+  - name: twitter
+    url: https://twitter.com/subinamathew
+    label: Twitter
