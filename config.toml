@@ -27,11 +27,10 @@ name = "About"
 url = "/about"
 
 
-params:
-  ananke_socials:
-  - name: linkedin
-    url: https://www.linkedin.com/in/subinamathew
-  - name: twitter
-    url: https://twitter.com/subinamathew
-  - name: github
-    url: https://github.com/subinamathew
+[[params.ananke_socials]]
+name = "linkedin"
+url = https://www.linkedin.com/in/subinamathew
+name = "twitter"
+url = https://twitter.com/subinamathew
+name = "github"
+url = https://github.com/subinamathew
