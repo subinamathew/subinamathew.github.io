@@ -30,8 +30,8 @@ url = "/about"
 params:
   ananke_socials:
   - name: linkedin
-    label: LinkedIn
     url: https://www.linkedin.com/in/subinamathew
   - name: twitter
     url: https://twitter.com/subinamathew
-    label: Twitter
+  - name: github
+    url: https://github.com/subinamathew
