@@ -1,6 +1,6 @@
 baseURL = 'blog.subinamathew.de'
 languageCode = 'en-us'
-title = 'My corner of World'
+title = 'SubinAMathew'
 theme = "ananke"
 
 # Main menu which appears below site header.
