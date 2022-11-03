@@ -1,4 +1,4 @@
-baseURL = 'blog.subinamathew.de'
+baseURL = 'https://blog.subinamathew.de'
 languageCode = 'en-us'
 title = 'SubinAMathew'
 theme = "ananke"
