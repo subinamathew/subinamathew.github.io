@@ -3,7 +3,7 @@ title: "ML & AI"
 date: 2022-11-06T16:22:14Z
 draft: false
 cascade:
-  featured_image: '/images/pexels-tara-winstead-8386440.jpg'
+  featured_image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg'
 ---
 
 Here are the list of sources that one may use to go ahead and share when looking about AI, ML, Data Engineering etc.
