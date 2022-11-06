@@ -2,20 +2,33 @@
 title: "ML & AI"
 date: 2022-11-06T16:22:14Z
 draft: false
+cascade:
+  featured_image: '/images/pexels-tara-winstead-8386440.jpg'
 ---
+
+Here are the list of sources that one may use to go ahead and share when looking about AI, ML, Data Engineering etc.
 
 
 ## Intro
 
 ML/AI
+
 - Automotive : Parking, Speed, Distance, Driver Insurance
+
     https://www.forbes.com/sites/ginaclarke/2019/01/21/how-your-insurance-quote-is-powered-by-artificial-intelligence/
+
 - Guided / Unmanned drones
+
 - Text, Speech, Image recognition
+
     https://pypi.org/project/SpeechRecognition/
+
 - Pattern Recognition & Generation in creative Arts
+
     https://www.midjourney.com/home/
+
     https://stability.ai/blog/stable-diffusion-public-release
+
     https://openai.com/dall-e-2/
 
 
@@ -41,12 +54,23 @@ https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513
 
 https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 
-AI systems are built to empower human beings and are controlled by humans
-AI systems are secure and do not violate user privacy
-The data and algorithms used in AI systems are completely transparent
-Avoid unintentional bias while developing AI applications
-AI systems must not harm the environment or other living beings
-Design mechanisms to ensure accountability and responsibility for AI systems and their results
+- AI systems are built to empower human beings and are controlled by humans
+
+- AI systems are secure and do not violate user privacy
+
+- The data and algorithms used in AI systems are completely transparent
+
+- Avoid unintentional bias while developing AI applications
+
+- AI systems must not harm the environment or other living beings
+
+- Design mechanisms to ensure accountability and responsibility for AI systems and their results
+
+https://www.nttdata.com/global/en/media/press-release/2019/may/ntt-data-introduces-ai-guidelines
+
+https://us.nttdata.com/en/-/media/assets/white-paper/building-trust-in-ai-pov.pdf
+
+https://de.nttdata.com/insights/whitepapers/trustworthy-ai-ki-risiken-effektiv-managen
 
 https://www2.deloitte.com/de/de/pages/innovation/contents/trustworthy-ai.html
 
