@@ -176,7 +176,7 @@ Google Sites: https://sites.google.com/
 
 Github: https://github.com/
 
-Hitlab: https://gitlab.com/
+Gitlab: https://gitlab.com/
 
 ## Free books & White paper
 
