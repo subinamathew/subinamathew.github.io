@@ -1,5 +1,5 @@
 ---
-title: "World's End"
+title: "Automate Everything"
 cascade:
   featured_image: 'https://images.pexels.com/photos/113850/pexels-photo-113850.jpeg'
 ---
