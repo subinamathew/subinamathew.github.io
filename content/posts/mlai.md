@@ -4,7 +4,23 @@ date: 2022-11-06T16:22:14Z
 draft: false
 ---
 
-WorkFlow​
+
+## Intro
+
+ML/AI
+- Automotive : Parking, Speed, Distance, Driver Insurance
+    https://www.forbes.com/sites/ginaclarke/2019/01/21/how-your-insurance-quote-is-powered-by-artificial-intelligence/
+- Guided / Unmanned drones
+- Text, Speech, Image recognition
+    https://pypi.org/project/SpeechRecognition/
+- Pattern Recognition & Generation in creative Arts
+    https://www.midjourney.com/home/
+    https://stability.ai/blog/stable-diffusion-public-release
+    https://openai.com/dall-e-2/
+
+
+
+**WorkFlow​**
 
 Data Engineering (Ingestion / pre-processing / Storage / Cataloguing)​
 
