@@ -46,8 +46,11 @@ ML (Models Scaling / LB / MLOPs)​
 Insight Analyse (Data => Information, Connect to Other services)​
 
 ## Explainable AI
+
 https://www.ibm.com/watson/explainable-ai
+
 https://cloud.google.com/explainable-ai
+
 https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513
 
 # TrustWorthy AI
@@ -86,10 +89,6 @@ Source: https://twitter.com/Margo_group/status/1201907321103900673/photo/1
 ### What Companies think what AI looks like
 
 Source: https://twitter.com/techedcs/status/1548852665446064128/photo/1
-
-### Its not that complicated
-
-Source:  https://www.linkedin.com/posts/mattdancho_stats-data-datacleaning-activity-6959223514474102784-nYck/?originalSubdomain=my
 
 ## Learn more
 
