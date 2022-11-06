@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automate Everything on SubinAMathew</title>
-    <link>blog.subinamathew.de/</link>
+    <link>/</link>
     <description>Recent content in Automate Everything on SubinAMathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Nov 2022 11:53:11 +0000</lastBuildDate>
     
-	<atom:link href="blog.subinamathew.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Program with Python AI/ML</title>
-      <link>blog.subinamathew.de/posts/python-gitpod/</link>
+      <link>/posts/python-gitpod/</link>
       <pubDate>Sun, 06 Nov 2022 16:59:37 +0000</pubDate>
       
-      <guid>blog.subinamathew.de/posts/python-gitpod/</guid>
+      <guid>/posts/python-gitpod/</guid>
       <description>https://github.com/adilkhash/Data-Engineering-HowTo https://github.com/topics/data-analysis-python https://github.com/mebauer/data-analysis-using-python https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects- https://github.com/PacktPublishing/Data-Engineering-with-Python https://github.com/kaburelabs/Data-Engineering-track-with-Python</description>
     </item>
     
     <item>
       <title>ML &amp; AI</title>
-      <link>blog.subinamathew.de/posts/mlai/</link>
+      <link>/posts/mlai/</link>
       <pubDate>Sun, 06 Nov 2022 16:22:14 +0000</pubDate>
       
-      <guid>blog.subinamathew.de/posts/mlai/</guid>
+      <guid>/posts/mlai/</guid>
       <description>Here are the list of sources that one may use to go ahead and share when looking about AI, ML, Data Engineering etc.
 Intro ML/AI
   Automotive : Parking, Speed, Distance, Driver Insurance
@@ -43,10 +43,10 @@ Data Engineering (Ingestion / pre-processing / Storage / Cataloguing)​</descri
     
     <item>
       <title>About</title>
-      <link>blog.subinamathew.de/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 03 Nov 2022 11:53:11 +0000</pubDate>
       
-      <guid>blog.subinamathew.de/about/</guid>
+      <guid>/about/</guid>
       <description>Find more about me on the links.
 https://www.linkedin.com/in/subinamathew
 https://twitter.com/subinamathew
@@ -55,10 +55,10 @@ https://github.com/subinamathew</description>
     
     <item>
       <title>My First Post</title>
-      <link>blog.subinamathew.de/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Wed, 02 Nov 2022 14:24:58 +0000</pubDate>
       
-      <guid>blog.subinamathew.de/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>This is my first post. Lets see how far this goes. I am using Github to create and update this using Gitpod. So YAY!</description>
     </item>
     

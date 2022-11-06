@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>blog.subinamathew.de/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-11-06T16:59:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/posts/python-gitpod/</loc>
+    <loc>/posts/python-gitpod/</loc>
     <lastmod>2022-11-06T16:59:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/posts/mlai/</loc>
+    <loc>/posts/mlai/</loc>
     <lastmod>2022-11-06T16:22:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-11-03T11:53:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/</loc>
+    <loc>/</loc>
     <lastmod>2022-11-03T11:53:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2022-11-02T14:24:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>blog.subinamathew.de/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
