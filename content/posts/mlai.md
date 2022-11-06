@@ -41,6 +41,13 @@ https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513
 
 https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 
+AI systems are built to empower human beings and are controlled by humans
+AI systems are secure and do not violate user privacy
+The data and algorithms used in AI systems are completely transparent
+Avoid unintentional bias while developing AI applications
+AI systems must not harm the environment or other living beings
+Design mechanisms to ensure accountability and responsibility for AI systems and their results
+
 https://www2.deloitte.com/de/de/pages/innovation/contents/trustworthy-ai.html
 
 https://www.ibm.com/products/cloud-pak-for-data/scale-trustworthy-ai
