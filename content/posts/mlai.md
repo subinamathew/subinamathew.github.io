@@ -41,4 +41,14 @@ https://www.deeplearning.ai/the-batch/tag/letters/
 Video: https://www.youtube.com/c/Deeplearningai
 
 
+### Where to get data from?
 
+| Source         | Link                                       |
+|----------------|--------------------------------------------|
+| Google Dataset | https://datasetsearch.research.google.com/ |
+| Kraggle        | https://www.kaggle.com/datasets            |
+| US Gov         | https://www.data.gov/                      |
+| Datahub.io     | https://datahub.io/collections             |
+
+Read more ...
+https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
