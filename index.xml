@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>World&#39;s End on SubinAMathew</title>
+    <title>Automate Everything on SubinAMathew</title>
     <link>/</link>
-    <description>Recent content in World&#39;s End on SubinAMathew</description>
+    <description>Recent content in Automate Everything on SubinAMathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Nov 2022 11:53:11 +0000</lastBuildDate>
@@ -12,12 +12,33 @@
     
     
     <item>
+      <title>ML &amp; AI</title>
+      <link>/posts/mlai/</link>
+      <pubDate>Sun, 06 Nov 2022 16:22:14 +0000</pubDate>
+      
+      <guid>/posts/mlai/</guid>
+      <description>WorkFlow​
+Data Engineering (Ingestion / pre-processing / Storage / Cataloguing)​
+Data Analyse (Data Exploration/ Processing / Insights)​
+Data Model (Feature Training/ Model Training &amp;amp; Evaluation)​
+ML (Models Scaling / LB / MLOPs)​
+Insight Analyse (Data =&amp;gt; Information, Connect to Other services)​
+​
+Here are a few links that I spoke about. Careers in Big Data Source: https://twitter.com/Margo_group/status/1201907321103900673/photo/1
+What Companies think what AI looks like Source: https://twitter.com/techedcs/status/1548852665446064128/photo/1
+Its not that complicated Source: https://www.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Thu, 03 Nov 2022 11:53:11 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
+      <description>Find more about me on the links.
+https://www.linkedin.com/in/subinamathew
+https://twitter.com/subinamathew
+https://github.com/subinamathew</description>
     </item>
     
     <item>
@@ -26,7 +47,7 @@
       <pubDate>Wed, 02 Nov 2022 14:24:58 +0000</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description>This is my first post. Lets see how far this goes.</description>
+      <description>This is my first post. Lets see how far this goes. I am using Github to create and update this using Gitpod. So YAY!</description>
     </item>
     
   </channel>
