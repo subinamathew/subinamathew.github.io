@@ -32,9 +32,21 @@ ML (Models Scaling / LB / MLOPs)​
 
 Insight Analyse (Data => Information, Connect to Other services)​
 
-​
+## Explainable AI
+https://www.ibm.com/watson/explainable-ai
+https://cloud.google.com/explainable-ai
+https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513
 
-## Here are a few links that I spoke about.
+# TrustWorthy AI
+
+https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+
+https://www2.deloitte.com/de/de/pages/innovation/contents/trustworthy-ai.html
+
+https://www.ibm.com/products/cloud-pak-for-data/scale-trustworthy-ai
+
+
+**Here are a few links that I spoke about.**
 
 ### Careers in Big Data
 
@@ -52,9 +64,9 @@ Source:  https://www.linkedin.com/posts/mattdancho_stats-data-datacleaning-activ
 
 Tableau : https://www.tableau.com/
 
-### Andrew Ng
+Towards Data Science: https://towardsdatascience.com/
 
-https://www.deeplearning.ai/the-batch/tag/letters/
+Andrew Ng: https://www.deeplearning.ai/the-batch/tag/letters/
 
 Video: https://www.youtube.com/c/Deeplearningai
 
@@ -141,3 +153,39 @@ Hitlab: https://gitlab.com/
 https://github.com/PacktPublishing/Data-Engineering-with-Python
 https://github.com/kaburelabs/Data-Engineering-track-with-Python
 https://www.opentext.com/file_source/OpenText/en_US/PDF/opentext-demystify-data-science-white-paper.pdf
+
+#### Random Buzz Words
+
+Data Pipeline​
+
+Data Warehousing​
+
+Sentiment Analysis​
+
+Apache Spark​
+
+Apache Kafka​
+
+Hadoop​
+
+Presto by Facebook​
+
+Apache Cassandra​
+
+Agile (Scrum)​
+
+Jira, Confluence,​
+
+DevOps / MLOps​
+
+CI/CD, ​
+
+Deployment Cycle​
+
+Data Pipeline​
+
+Web/Software Dev Terms​
+
+Frontend, Backend, UX/UI, DB​
+
+Clouds: AWS, Azure, GCP
