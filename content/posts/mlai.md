@@ -15,6 +15,8 @@ Where is AI used today:
 
 https://builtin.com/artificial-intelligence/examples-ai-in-industry
 
+For R Lang: https://github.com/subinamathew/R-lang
+
 ML/AI
 
 - Automotive : Parking, Speed, Distance, Driver Insurance
