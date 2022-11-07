@@ -11,6 +11,10 @@ Here are the list of sources that one may use to go ahead and share when looking
 
 ## Intro
 
+Where is AI used today: 
+
+https://builtin.com/artificial-intelligence/examples-ai-in-industry
+
 ML/AI
 
 - Automotive : Parking, Speed, Distance, Driver Insurance
