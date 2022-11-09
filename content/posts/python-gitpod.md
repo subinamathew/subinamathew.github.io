@@ -2,6 +2,7 @@
 title: "Program with Python AI/ML"
 date: 2022-11-06T16:59:37Z
 draft: false
+tags: ["python"]
 ---
 
 Here is a bunch of github stuff that may help you with python.

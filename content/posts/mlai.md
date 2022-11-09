@@ -2,9 +2,11 @@
 title: "ML & AI"
 date: 2022-11-06T16:22:14Z
 draft: false
-cascade:
-  featured_image: '/images/pexels-tara-winstead-8386440.jpg'
+tags: ["python", "video", "AI", "ML"]
+featured_image: "/images/pexels-tara-winstead-8386440.jpg"
 ---
+
+{{< youtube id="s9q8MGCQQZ0" title="ML AI" >}}
 
 Here are the list of sources that one may use to go ahead and share when looking about AI, ML, Data Engineering etc.
 

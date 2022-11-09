@@ -36,3 +36,9 @@ url = "https://twitter.com/subinamathew"
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/subinamathew"
+[[params.ananke_socials]]
+name = "gitlab"
+url = "https://gitlab.com/subinamathew"
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://facebook.com/renewedtohonor"
