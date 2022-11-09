@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on SubinAMathew</title>
+    <link>https://subinamathew.github.io/tags/video/</link>
+    <description>Recent content in video on SubinAMathew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 16:22:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://subinamathew.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ML &amp; AI</title>
+      <link>https://subinamathew.github.io/posts/mlai/</link>
+      <pubDate>Sun, 06 Nov 2022 16:22:14 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/mlai/</guid>
+      <description>Here are the list of sources that one may use to go ahead and share when looking about AI, ML, Data Engineering etc.
+Intro Where is AI used today:
+https://builtin.com/artificial-intelligence/examples-ai-in-industry
+For R Lang: https://github.com/subinamathew/R-lang
+ML/AI
+  Automotive : Parking, Speed, Distance, Driver Insurance
+https://www.forbes.com/sites/ginaclarke/2019/01/21/how-your-insurance-quote-is-powered-by-artificial-intelligence/
+  Guided / Unmanned drones
+  Text, Speech, Image recognition
+https://pypi.org/project/SpeechRecognition/
+  Pattern Recognition &amp;amp; Generation in creative Arts</description>
+    </item>
+    
+  </channel>
+</rss>

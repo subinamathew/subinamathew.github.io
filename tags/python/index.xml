@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Automate Everything on SubinAMathew</title>
-    <link>https://subinamathew.github.io/</link>
-    <description>Recent content in Automate Everything on SubinAMathew</description>
+    <title>python on SubinAMathew</title>
+    <link>https://subinamathew.github.io/tags/python/</link>
+    <description>Recent content in python on SubinAMathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 11:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2022 16:59:37 +0000</lastBuildDate>
     
-	<atom:link href="https://subinamathew.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://subinamathew.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -42,27 +42,6 @@ https://www.forbes.com/sites/ginaclarke/2019/01/21/how-your-insurance-quote-is-p
   Text, Speech, Image recognition
 https://pypi.org/project/SpeechRecognition/
   Pattern Recognition &amp;amp; Generation in creative Arts</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://subinamathew.github.io/about/</link>
-      <pubDate>Thu, 03 Nov 2022 11:53:11 +0000</pubDate>
-      
-      <guid>https://subinamathew.github.io/about/</guid>
-      <description>Find more about me on the links.
-https://www.linkedin.com/in/subinamathew
-https://twitter.com/subinamathew
-https://github.com/subinamathew</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://subinamathew.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 02 Nov 2022 14:24:58 +0000</pubDate>
-      
-      <guid>https://subinamathew.github.io/posts/my-first-post/</guid>
-      <description>This is my first post. Lets see how far this goes. I am using Github to create and update this using Gitpod. So YAY!</description>
     </item>
     
   </channel>
