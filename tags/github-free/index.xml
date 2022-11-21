@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Free on SubinAMathew</title>
+    <link>https://subinamathew.github.io/tags/github-free/</link>
+    <description>Recent content in Github Free on SubinAMathew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 09:13:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://subinamathew.github.io/tags/github-free/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Source ML models for Industry - V1</title>
+      <link>https://subinamathew.github.io/posts/11-2022-os-ml/</link>
+      <pubDate>Mon, 21 Nov 2022 09:13:15 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/11-2022-os-ml/</guid>
+      <description>TensorHouse is a collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain, and more. The goal of the project is to provide baseline implementations for industrial, research, and educational purposes  link: https://github.com/ikatsov/tensor-house</description>
+    </item>
+    
+    <item>
+      <title>Program with Python AI/ML</title>
+      <link>https://subinamathew.github.io/posts/python-gitpod/</link>
+      <pubDate>Sun, 06 Nov 2022 16:59:37 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/python-gitpod/</guid>
+      <description>Here is a bunch of github stuff that may help you with python.
+  https://github.com/adilkhash/Data-Engineering-HowTo
+  https://github.com/mebauer/data-analysis-using-python
+  https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-
+  https://github.com/PacktPublishing/Data-Engineering-with-Python
+  https://github.com/kaburelabs/Data-Engineering-track-with-Python
+  </description>
+    </item>
+    
+  </channel>
+</rss>

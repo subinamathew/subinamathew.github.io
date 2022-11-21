@@ -12,17 +12,39 @@
     
     
     <item>
+      <title>Open Source ML models for Industry - V1</title>
+      <link>https://subinamathew.github.io/posts/11-2022-os-ml/</link>
+      <pubDate>Mon, 21 Nov 2022 09:13:15 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/11-2022-os-ml/</guid>
+      <description>TensorHouse is a collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain, and more. The goal of the project is to provide baseline implementations for industrial, research, and educational purposes  link: https://github.com/ikatsov/tensor-house</description>
+    </item>
+    
+    <item>
+      <title>State of AI Updates</title>
+      <link>https://subinamathew.github.io/posts/ai-updates/</link>
+      <pubDate>Mon, 21 Nov 2022 09:05:47 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/ai-updates/</guid>
+      <description>The State of AI Report seeks to trigger informed conversation about the state of AI and its implication for the future. Here is a link to the latest updates on AI.
+SOURCE: https://www.stateof.ai/
+Key themes in the 2022 Report include:
+New independent research labs are rapidly open sourcing the closed source output of major labs. Despite the dogma that AI research would be increasingly centralised among a few large players, the lowered cost of and access to compute has led to state-of-the-art research coming out of much smaller, previously unknown labs.</description>
+    </item>
+    
+    <item>
       <title>Program with Python AI/ML</title>
       <link>https://subinamathew.github.io/posts/python-gitpod/</link>
       <pubDate>Sun, 06 Nov 2022 16:59:37 +0000</pubDate>
       
       <guid>https://subinamathew.github.io/posts/python-gitpod/</guid>
       <description>Here is a bunch of github stuff that may help you with python.
-https://github.com/adilkhash/Data-Engineering-HowTo
-https://github.com/mebauer/data-analysis-using-python
-https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-
-https://github.com/PacktPublishing/Data-Engineering-with-Python
-https://github.com/kaburelabs/Data-Engineering-track-with-Python</description>
+  https://github.com/adilkhash/Data-Engineering-HowTo
+  https://github.com/mebauer/data-analysis-using-python
+  https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-
+  https://github.com/PacktPublishing/Data-Engineering-with-Python
+  https://github.com/kaburelabs/Data-Engineering-track-with-Python
+  </description>
     </item>
     
     <item>
