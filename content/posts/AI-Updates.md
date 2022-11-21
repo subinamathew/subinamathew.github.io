@@ -1,5 +1,5 @@
 ---
-title: "AI Updates"
+title: "State of AI Updates"
 date: 2022-11-21T09:05:47Z
 draft: false
 tags: ["AI", "ML"]
