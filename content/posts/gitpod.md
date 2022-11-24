@@ -16,5 +16,9 @@ Gitpod Workspace URL: https://gitpod.io/workspaces
 
 In this page, I will be constantly updating exampes of Gitpod.
 
+Here are the examples in a GitLab Project.
+
+https://gitlab.com/gitpod-examples
+
 Enjoy!
 
