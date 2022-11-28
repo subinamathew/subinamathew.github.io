@@ -3,7 +3,7 @@ title: "Adam, Eve and human genetic diversity"
 date: 2022-11-28T14:58:29Z
 draft: false
 tags: ["God", "evolution"]
-featured_image: https://media-exp1.licdn.com/dms/image/C4E22AQFmTUPZxYtNQA/feedshare-shrink_800/0/1669636950440?e=1672272000&v=beta&t=diVRx42GQL72A33SpsVaLL548vbCBR1_cdkaQ3w9Ryw
+featured_image: https://richardbuggs.com/wp-content/uploads/2021/03/Diversity-1568x558.png
 ---
 
 Prof. Richard Buggs an evolutionary biologist and molecular ecologist. This video summarises *his* understanding of the current genetic evidence on whether or not humans could have passed through a bottleneck of a single couple at some point in our history.
