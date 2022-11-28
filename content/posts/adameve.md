@@ -1,5 +1,5 @@
 ---
-title: "Adam, Eve and human genetic diversity"
+title: "Adam, Eve and human genetic diversity  - Richard Buggs"
 date: 2022-11-28T14:58:29Z
 draft: false
 tags: ["God", "evolution"]
