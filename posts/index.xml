@@ -52,6 +52,18 @@ https://gitlab.com/gitpod-examples</description>
     </item>
     
     <item>
+      <title>Sign your Certs!</title>
+      <link>https://subinamathew.github.io/posts/letsencrpyt/</link>
+      <pubDate>Wed, 23 Nov 2022 14:20:28 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/letsencrpyt/</guid>
+      <description>git config &amp;ndash;global user.email yourgitemail@example.com
+/bin/bash -c &amp;ldquo;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;quot;
+brew install letsencrypt
+certbot certonly \ --manual \ --preferred-challenges=dns \ --email your@email-address.com \ --agree-tos \ --config-dir ./config \ --logs-dir ./logs \ --work-dir ./workdir \ -d example.com ``` DNS settings Private certificate (privkey.pem) Public certificate (cert.pem) Public certificate chain (fullchain.</description>
+    </item>
+    
+    <item>
       <title>Open Source ML models for Industry - V1</title>
       <link>https://subinamathew.github.io/posts/11-2022-os-ml/</link>
       <pubDate>Mon, 21 Nov 2022 09:13:15 +0000</pubDate>
