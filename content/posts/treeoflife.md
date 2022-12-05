@@ -2,7 +2,7 @@
 title: "Trees of Life: do they exist? - Richard Buggs"
 date: 2022-11-28T14:58:29Z
 draft: false
-tags: ["God", "evolution"]
+tags: ["evolution"]
 featured_image: https://media-exp1.licdn.com/dms/image/C4E22AQFmTUPZxYtNQA/feedshare-shrink_800/0/1669636950440?e=1672272000&v=beta&t=diVRx42GQL72A33SpsVaLL548vbCBR1_cdkaQ3w9Ryw
 ---
 

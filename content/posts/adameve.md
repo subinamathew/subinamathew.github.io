@@ -2,7 +2,7 @@
 title: "Adam, Eve and human genetic diversity  - Richard Buggs"
 date: 2022-11-28T14:58:29Z
 draft: false
-tags: ["God", "evolution"]
+tags: ["evolution"]
 featured_image: https://richardbuggs.com/wp-content/uploads/2021/03/Diversity-1568x558.png
 ---
 
