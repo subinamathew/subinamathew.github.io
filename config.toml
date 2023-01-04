@@ -1,31 +1,50 @@
 baseURL = 'https://subinamathew.github.io'
+canonifyURLs=true
 languageCode = 'en-us'
 title = 'SubinAMathew'
-theme = "ananke"
+theme = "BlogRa"
 
-date_format = "2. January 2006"
+#date_format = "2. January 2006"
 
 
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+# Configure the site menu here
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
 
-[[menu.main]]
-name = "Posts"
-url = "/posts"
-weight = 2
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "Posts"
+                url = "/posts/"
+                weight = 1
+            [[menu.main]]
+                parent = "blog"
+                name = "Sections"
+                url = "/sections/"
+                weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "divider"
+                weight = 3
+            [[menu.main]]
+                parent = "blog"
+                name = "Tags"
+                url = "/tags/"
+                weight = 4
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about"
-
+# Don't touch this
+[markup.goldmark.renderer]
+    unsafe = true
 
 [[params.ananke_socials]]
 name = "linkedin"
@@ -42,3 +61,23 @@ url = "https://gitlab.com/subinamathew"
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://facebook.com/renewedtohonor"
+
+
+[params]
+    description     = "Tech blog by Subin Mathew"
+    contactEmail    = ""
+    footer          = "SubinAMathew 2023"
+    googleSearch    = ""
+    googleAnalytics = "" # v4
+    adsense         = ""
+    math            = false   # best to enable this in the front matter of a page
+    mermaid         = false   # best to enable this in the front matter of a page
+
+    # Social Media Params
+    facebook   = ""
+    twitter    = ""
+    youtube    = ""
+    instagram  = ""
+    github     = "https://github.com/subinamathew"
+    pinterest  = ""
+    linkedin   = "https://www.linkedin.com/in/subinamathew/"
