@@ -2,7 +2,7 @@ baseURL = 'https://subinamathew.github.io'
 canonifyURLs=true
 languageCode = 'en-us'
 title = 'SubinAMathew'
-theme = "BlogRa"
+theme = "ananke"
 
 #date_format = "2. January 2006"
 
