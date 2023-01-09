@@ -1,6 +1,6 @@
 ---
 title: "Resources for explainable AI"
-date: 2022-11-21T09:13:15Z
+date: 2023-01-09T09:13:15Z
 draft: false
 tags: ["AI", "ML", "Explainable"]
 featured_image: "https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dogs_gradcam++_resnet50.jpg?raw=true"
