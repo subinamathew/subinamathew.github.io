@@ -60,6 +60,18 @@ certbot certonly \ --manual \ --preferred-challenges=dns \ --email your@email-ad
     </item>
     
     <item>
+      <title>Resources for explainable AI</title>
+      <link>https://subinamathew.github.io/posts/1-2023-explainable-ai/</link>
+      <pubDate>Mon, 21 Nov 2022 09:13:15 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/1-2023-explainable-ai/</guid>
+      <description>Here are some explainable AI features that can help to understand why an AI came to a decision. This post will be contantly updated. Keep coming back for more!
+  Advanced AI explainability for PyTorch: https://github.com/jacobgil/pytorch-grad-cam
+This project helps us understand how the AI calculates based on visual cues. This is really good to understand the AI. Project is MIT licensed.
+  AOmniXAI: A Library for Explainable AI: https://github.</description>
+    </item>
+    
+    <item>
       <title>State of AI Updates</title>
       <link>https://subinamathew.github.io/posts/ai-updates/</link>
       <pubDate>Mon, 21 Nov 2022 09:05:47 +0000</pubDate>

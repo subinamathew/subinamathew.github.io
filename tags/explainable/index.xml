@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explainable on SubinAMathew</title>
+    <link>https://subinamathew.github.io/tags/explainable/</link>
+    <description>Recent content in Explainable on SubinAMathew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 09:13:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://subinamathew.github.io/tags/explainable/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources for explainable AI</title>
+      <link>https://subinamathew.github.io/posts/1-2023-explainable-ai/</link>
+      <pubDate>Mon, 21 Nov 2022 09:13:15 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/1-2023-explainable-ai/</guid>
+      <description>Here are some explainable AI features that can help to understand why an AI came to a decision. This post will be contantly updated. Keep coming back for more!
+  Advanced AI explainability for PyTorch: https://github.com/jacobgil/pytorch-grad-cam
+This project helps us understand how the AI calculates based on visual cues. This is really good to understand the AI. Project is MIT licensed.
+  AOmniXAI: A Library for Explainable AI: https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
