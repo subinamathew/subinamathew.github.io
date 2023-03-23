@@ -3,7 +3,7 @@ canonifyURLs=true
 languageCode = 'en-us'
 title = 'SubinAMathew'
 theme = "ananke"
-googleAnalytics: "G-1371P9119X"
+googleAnalytics = "G-1371P9119X"
 #date_format = "2. January 2006"
 
 
