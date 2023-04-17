@@ -6,10 +6,19 @@
     <description>Recent content in AI on SubinAMathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 09:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 09:05:47 +0000</lastBuildDate>
     
 	<atom:link href="https://subinamathew.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Report 2023</title>
+      <link>https://subinamathew.github.io/posts/ai-report-2023/</link>
+      <pubDate>Sat, 01 Apr 2023 09:05:47 +0000</pubDate>
+      
+      <guid>https://subinamathew.github.io/posts/ai-report-2023/</guid>
+      <description>Measuring trends in Artificial Intelligence  The AI Index is an independent initiative at the Stanford Institute for Human-Centered Artificial Intelligence (HAI), led by the AI Index Steering Committee, an interdisciplinary group of experts from across academia and industry. The annual report tracks, collates, distills, and visualizes data relating to artificial intelligence, enabling decision-makers to take meaningful action to advance AI responsibly and ethically with humans in mind. The AI Index collaborates with many different organizations to track progress in artificial intelligence.</description>
+    </item>
     
     <item>
       <title>Resources for explainable AI</title>
